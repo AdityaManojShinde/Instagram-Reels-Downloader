@@ -19,7 +19,7 @@ Instagram Reel Downloader is a Python application that allows you to download In
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/instagram-reel-downloader.git
+    git clone https://github.com/AdityaManojShinde/Instagram-Reels-Downloader.git
     ```
 
 2. Navigate to the project directory:
