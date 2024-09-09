@@ -47,9 +47,9 @@ Instagram Reel Downloader is a Python application that allows you to download In
     python main.py
     ```
 
-2. In the application window, enter the Instagram Reel URLs that you want to download, one URL per line.
+2. In the application window, enter the Instagram Reel URL that you want to download and also select the desired location you want to save the downloaded video by pressing browse.
 
-3. Click the "Download Reels" button to start the download process.
+3. Click the "Download" button to start the download process.
 
 4. Wait for the download to finish. Once the download is complete, a success message will be displayed.
 
