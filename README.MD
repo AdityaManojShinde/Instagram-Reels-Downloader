@@ -1,5 +1,10 @@
 # Instagram Reel Downloader
 
+![Screenshot 1](images/post/1.png) 
+![Screenshot 2](images/post/2.png)
+![Screenshot 3 ](images/post/3.png) 
+![Screenshot 4](images/post/4.png)
+
 Instagram Reel Downloader is a Python application that allows you to download Instagram Reels using their URLs. The application provides a graphical user interface (GUI) built with Tkinter and uses the Instaloader library to handle the downloading process.
 
 ## Features
